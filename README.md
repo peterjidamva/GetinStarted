@@ -1,6 +1,6 @@
 # getinstrtd
 
-A new Flutter project.
+A quick survey app ! 
 
 ## Getting Started
 
